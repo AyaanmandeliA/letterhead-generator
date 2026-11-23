@@ -1,0 +1,13 @@
+{
+  "_comment": "Synthetic example content. Not a real letter.",
+  "entityName": "Example Trading LLC",
+  "date": "1 January 2026",
+  "recipient": { "name": "Sample Recipient", "title": "Manager", "org": "Example Company", "city": "Sample City" },
+  "salutation": "Dear Sample Recipient,",
+  "subject": "Re: Example notice",
+  "body": [
+    "This is placeholder text used to demonstrate the letterhead layout.",
+    "A second paragraph shows normal body spacing. Fill-in fields such as [Amount] can be highlighted with highlightPlaceholders."
+  ],
+  "highlightPlaceholders": true
+}

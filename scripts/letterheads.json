@@ -1,0 +1,316 @@
+{
+  "aanka-group": {
+    "name": "AANKA Group",
+    "aliases": [
+      "aanka",
+      "aanka group",
+      "anka",
+      "anka group",
+      "group",
+      "aanka group letterhead",
+      "aanka group entity"
+    ],
+    "requiresEntityField": true,
+    "logo": "../assets/aanka-logo-primary.png",
+    "logoAspect": 4.6167,
+    "colors": {
+      "ink": "141414",
+      "muted": "55534B",
+      "accent": "6C7A6B",
+      "platinum": "B8B8B0"
+    },
+    "fonts": {
+      "display": "Cormorant Garamond",
+      "body": "Inter"
+    },
+    "masthead": "United Arab Emirates  \u00b7  Est. 2014",
+    "entityFieldLabel": "Issued on behalf of",
+    "footerBrands": [
+      {
+        "name": "Khau Galli",
+        "logo": "../assets/khau-galli-logo.png",
+        "logoAspect": 1.031
+      },
+      {
+        "name": "House of Zaika",
+        "logo": "../assets/house-of-zaika-logo.png",
+        "logoAspect": 2.196
+      },
+      {
+        "name": "Cutting Edge Ladies",
+        "logo": "../assets/cutting-edge-ladies-logo.png",
+        "logoAspect": 0.998
+      },
+      {
+        "name": "Cutting Edge Gents",
+        "logo": "../assets/cutting-edge-gents-logo.png",
+        "logoAspect": 1.425
+      },
+      {
+        "name": "DecoVibes",
+        "logo": "../assets/decovibes-logo.jpg",
+        "logoAspect": 1.0
+      },
+      {
+        "name": "AANKA Contracting",
+        "logo": null
+      }
+    ],
+    "footerLine2": "aankagroup.com   \u00b7   contact@example.com",
+    "defaultSignatory": {
+      "name": "[Signatory Name]",
+      "title": "[Signatory Title]"
+    }
+  },
+  "aanka-group-announcement": {
+    "name": "AANKA Group",
+    "aliases": [
+      "aanka group announcement",
+      "company wide announcement",
+      "company-wide announcement",
+      "group announcement",
+      "aanka announcement",
+      "general announcement",
+      "all staff",
+      "all aanka staff",
+      "aanka group general"
+    ],
+    "requiresEntityField": false,
+    "logo": "../assets/aanka-logo-primary.png",
+    "logoAspect": 4.6167,
+    "colors": {
+      "ink": "141414",
+      "muted": "55534B",
+      "accent": "6C7A6B",
+      "platinum": "B8B8B0"
+    },
+    "fonts": {
+      "display": "Cormorant Garamond",
+      "body": "Inter"
+    },
+    "masthead": "United Arab Emirates  \u00b7  Est. 2014",
+    "footerBrands": [
+      {
+        "name": "Khau Galli",
+        "logo": "../assets/khau-galli-logo.png",
+        "logoAspect": 1.031
+      },
+      {
+        "name": "House of Zaika",
+        "logo": "../assets/house-of-zaika-logo.png",
+        "logoAspect": 2.196
+      },
+      {
+        "name": "Cutting Edge Ladies",
+        "logo": "../assets/cutting-edge-ladies-logo.png",
+        "logoAspect": 0.998
+      },
+      {
+        "name": "Cutting Edge Gents",
+        "logo": "../assets/cutting-edge-gents-logo.png",
+        "logoAspect": 1.425
+      },
+      {
+        "name": "DecoVibes",
+        "logo": "../assets/decovibes-logo.jpg",
+        "logoAspect": 1.0
+      },
+      {
+        "name": "AANKA Contracting",
+        "logo": null
+      }
+    ],
+    "footerLine2": "aankagroup.com   \u00b7   contact@example.com",
+    "defaultSignatory": {
+      "name": "[Signatory Name]",
+      "title": "[Signatory Title]"
+    }
+  },
+  "khau-galli": {
+    "name": "Khau Galli",
+    "aliases": [
+      "khau galli",
+      "khaugalli",
+      "kaugali",
+      "kg"
+    ],
+    "requiresEntityField": false,
+    "headerStyle": "brand-masthead",
+    "logo": "../assets/khau-galli-logo.png",
+    "logoAspect": 1.031,
+    "logoTreatment": "framed",
+    "colors": {
+      "ink": "141414",
+      "muted": "55534B",
+      "accent": "6C7A6B",
+      "platinum": "B8B8B0"
+    },
+    "fonts": {
+      "display": "Cormorant Garamond",
+      "body": "Inter"
+    },
+    "masthead": "An AANKA Group Company",
+    "footerLine1": "Khau Galli",
+    "footerLine2": "thekhaugalli.com   \u00b7   contact@example.com",
+    "defaultSignatory": {
+      "name": "[Signatory Name]",
+      "title": "[Signatory Title]"
+    }
+  },
+  "decovibes": {
+    "name": "DecoVibes",
+    "aliases": [
+      "decovibes",
+      "deco vibes",
+      "dv"
+    ],
+    "requiresEntityField": false,
+    "headerStyle": "brand-masthead",
+    "logo": "../assets/decovibes-logo-chip.png",
+    "logoAspect": 1.0439,
+    "logoTreatment": "plain",
+    "colors": {
+      "ink": "141414",
+      "muted": "55534B",
+      "accent": "6C7A6B",
+      "platinum": "B8B8B0"
+    },
+    "fonts": {
+      "display": "Cormorant Garamond",
+      "body": "Inter"
+    },
+    "masthead": "An AANKA Group Company",
+    "footerLine1": "DecoVibes",
+    "footerLine2": "decovibesinterior.com   \u00b7   contact@example.com",
+    "defaultSignatory": {
+      "name": "[Signatory Name]",
+      "title": "[Signatory Title]"
+    }
+  },
+  "cutting-edge-ladies": {
+    "name": "Cutting Edge",
+    "aliases": [
+      "cutting edge ladies",
+      "cutting edge ladies salon",
+      "ce ladies",
+      "cel"
+    ],
+    "requiresEntityField": false,
+    "headerStyle": "brand-masthead",
+    "logo": "../assets/cutting-edge-ladies-logo.png",
+    "logoAspect": 0.998,
+    "logoTreatment": "plain",
+    "colors": {
+      "ink": "141414",
+      "muted": "55534B",
+      "accent": "6C7A6B",
+      "platinum": "B8B8B0"
+    },
+    "fonts": {
+      "display": "Cormorant Garamond",
+      "body": "Inter"
+    },
+    "masthead": "An AANKA Group Company",
+    "footerLine1": "Cutting Edge Ladies",
+    "footerLine2": "cuttingedgeladies.com   \u00b7   contact@example.com",
+    "defaultSignatory": {
+      "name": "[Signatory Name]",
+      "title": "[Signatory Title]"
+    }
+  },
+  "cutting-edge-gents": {
+    "name": "Cutting Edge",
+    "aliases": [
+      "cutting edge gents",
+      "cutting edge mens",
+      "cutting edge men's",
+      "cem",
+      "ce gents"
+    ],
+    "requiresEntityField": false,
+    "headerStyle": "brand-masthead",
+    "logo": "../assets/cutting-edge-gents-logo.png",
+    "logoAspect": 1.425,
+    "logoTreatment": "framed",
+    "colors": {
+      "ink": "141414",
+      "muted": "55534B",
+      "accent": "6C7A6B",
+      "platinum": "B8B8B0"
+    },
+    "fonts": {
+      "display": "Cormorant Garamond",
+      "body": "Inter"
+    },
+    "masthead": "An AANKA Group Company",
+    "footerLine1": "Cutting Edge Gents",
+    "footerLine2": "cuttingedgemens.com   \u00b7   contact@example.com",
+    "defaultSignatory": {
+      "name": "[Signatory Name]",
+      "title": "[Signatory Title]"
+    }
+  },
+  "house-of-zaika": {
+    "name": "House of Zaika",
+    "aliases": [
+      "house of zaika",
+      "zaika",
+      "houseofzaika"
+    ],
+    "requiresEntityField": false,
+    "headerStyle": "brand-masthead",
+    "hideNameInMasthead": true,
+    "logo": "../assets/house-of-zaika-logo.png",
+    "logoAspect": 2.196,
+    "logoTreatment": "plain",
+    "colors": {
+      "ink": "141414",
+      "muted": "55534B",
+      "accent": "6C7A6B",
+      "platinum": "B8B8B0"
+    },
+    "fonts": {
+      "display": "Cormorant Garamond",
+      "body": "Inter"
+    },
+    "masthead": "An AANKA Group Company",
+    "footerLine1": "House of Zaika",
+    "footerLine2": "houseofzaika.com   \u00b7   contact@example.com",
+    "defaultSignatory": {
+      "name": "[Signatory Name]",
+      "title": "[Signatory Title]"
+    }
+  },
+  "aanka-contracting": {
+    "name": "AANKA Contracting",
+    "aliases": [
+      "aanka contracting",
+      "contracting",
+      "ac",
+      "aanka constructions"
+    ],
+    "requiresEntityField": false,
+    "headerStyle": "brand-masthead",
+    "logo": "../assets/aanka-contracting-logo.png",
+    "logoAspect": 4.174,
+    "logoTreatment": "plain",
+    "colors": {
+      "ink": "141414",
+      "muted": "55534B",
+      "accent": "AA8540",
+      "platinum": "B8B8B0"
+    },
+    "fonts": {
+      "display": "Cormorant Garamond",
+      "body": "Inter"
+    },
+    "masthead": "An AANKA Group Company",
+    "footerLine1": "AANKA Contracting",
+    "footerLine2": "aankacontracting.com   \u00b7   contact@example.com",
+    "defaultSignatory": {
+      "name": "[Signatory Name]",
+      "title": "[Signatory Title]"
+    },
+    "hideNameInMasthead": true
+  }
+}
